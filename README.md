@@ -21,6 +21,7 @@ Go to the project directory
   cd pyfuck
   cd pyfuck
 ```
+^ yes 2 times
 
 Install dependencies
 
