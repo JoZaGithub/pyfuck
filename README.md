@@ -1,6 +1,8 @@
 
 # PyFuck
 
+(by userness)
+
 [JsFuck](https://jsfuck.com), BUT PYTHON BRRRRRRRRRRRRRRRRRRRRRRRR
 
 
