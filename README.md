@@ -1,7 +1,7 @@
 
 # PyFuck
 
-(by userness)
+(by [userness](https://github.com/userness))
 
 [JsFuck](https://jsfuck.com), BUT PYTHON BRRRRRRRRRRRRRRRRRRRRRRRR
 
